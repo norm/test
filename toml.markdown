@@ -1,4 +1,4 @@
-```toml
+```
 title = 'Second in the alphabet'
 size = 'middling'
 tags = ['tag2','tag_all']
